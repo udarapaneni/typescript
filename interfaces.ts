@@ -1,6 +1,7 @@
 //how to determine custom types
 
 interface Point {
+  // Pascal notation for custom types
   x: number;
   y: number;
 }
